@@ -25,7 +25,7 @@ and stock price tools — built with LangGraph, Groq, and Streamlit.
 
 ### 1. Clone
 ```bash
-git clone https://github.com/yourusername/advanced-rag-chatbot.git
+git clone https://github.com/parthasaratnipanda2006/RAG-CHATBOT.git
 cd advanced-rag-chatbot
 ```
 
